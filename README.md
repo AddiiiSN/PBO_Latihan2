@@ -33,6 +33,9 @@ public class AkunBank{
     }
 }
 
+![Screenshot (3)](https://user-images.githubusercontent.com/115928747/196050161-06c057d1-5527-4e6f-9f83-9540587b890c.png)
+
+
 //Membuat Class Transaksi Untuk Menampilkan Data di Layar
 class Transaksi{
     public static void main(String[] args){
