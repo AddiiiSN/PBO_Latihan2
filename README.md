@@ -1,4 +1,5 @@
-# Latihan 2
+# ORIENTED OBJECT PROGRAMMING
+#Latihan 2
 
         //Mengimpor Metode Input Data
         import java.util.Scanner;
